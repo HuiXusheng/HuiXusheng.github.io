@@ -16,11 +16,11 @@ I am presently a master student at School of Astronautics, Northwestern Polytech
 
 **M.A. in Flight Vehicle Design, 2022 (Expected)**
 <br>
-Northwestern Polytechnical University, **GPA:3.68/4, Ranked 1st/30**
+Northwestern Polytechnical University, GPA:3.68/4, Ranked **1st**/30
 
 **B.A. in Flight Vehicle Design and Engineering, 2019**
 <br>
-Northwestern Polytechnical University, **GPA:3.6/4, Ranked 4th/67**
+Northwestern Polytechnical University, GPA:3.6/4, Ranked **4th**/67
 
 
 
