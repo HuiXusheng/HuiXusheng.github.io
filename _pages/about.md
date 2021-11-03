@@ -38,7 +38,7 @@ This project focus on the designing method, the manufacturing technology on thre
 
 <img style="float: left;" src="/images/3.gif" width="320">
 
-<img style="float: right;" src="/images/4.gif" width="320">>
+<img style="float: right;" src="/images/4.gif" width="320">
 
 Micro-actuators illustrated in figures above are composed with shape memory alloy (SMA) and fabricated though Micro-electromechanical Systems (MEMS). These actuators are capable of forming into complex, precise and programmable three-dimensional shapes at micron scale. A voltage lower than 1V is sufficient to activate the actuator and cause it to vibrate at a high response frequency up to 50Hz, which is far more superior to most of the present micro-actuators based on SMA. Advantageous performances guarantee the actuators a broad prospect in the applications of micromachines, biomedicine, micro-robots and other fields.
 
@@ -50,9 +50,9 @@ Micro-actuators illustrated in figures above are composed with shape memory allo
 
 This project aims at developing a set of innovative interventional intelligent mechanical thrombectomy procedures and medical equipment products to face the challenges and needs of interventional neurosurgery for acute stroke.
 
-<img style="float: left;" src="/images/5.jpg" width="320">
+<img style="float: left;" src="/images/5.jpg">
 
-<img style="float: right;" src="/images/6.jpg" width="320">
+<img style="float: right;" src="/images/6.jpg">
 
 Benefit from the innovative designing and fabrication method, mechanical embolectomy devices developed in this project can be small enough to be applied in vessels with diameters less than 1mm, where the current products cannot cover.
 
