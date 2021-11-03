@@ -34,10 +34,6 @@ Northwestern Polytechnical University, GPA:3.6/4, Ranked 4th/67
 
 This project focus on the designing method, the manufacturing technology on three-dimensional structure with high mechanical properties and response frequency at micron scale and its application on micro- actuators and robots.
 
-<img src="/images/2.png" width="640">
-
-
-
 <br>
 
 <img style="float: left;" src="/images/3.gif" width="240">
@@ -45,6 +41,8 @@ This project focus on the designing method, the manufacturing technology on thre
 <img style="float: right;" src="/images/4.gif" width="240">
 
 <br>
+
+<img src="/images/2.png" width="640">
 
 Micro-actuators illustrated in figures above are composed with shape memory alloy (SMA) and fabricated though Micro-electromechanical Systems (MEMS). These actuators are capable of forming into complex, precise and programmable three-dimensional shapes at micron scale. A voltage lower than 1V is sufficient to activate the actuator and cause it to vibrate at a high response frequency up to 50Hz, which is far more superior to most of the present micro-actuators based on SMA. Advantageous performances guarantee the actuators a broad prospect in the applications of micromachines, biomedicine, micro-robots and other fields.
 
