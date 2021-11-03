@@ -39,9 +39,9 @@ This project focus on the designing method, the manufacturing technology on thre
 
 
 
-<img style="float: left;" src="/images/3.gif" width="320">
+<img style="float: left;" src="/images/3.gif" width="240">
 
-<img style="float: right;" src="/images/4.gif" width="320">
+<img style="float: right;" src="/images/4.gif" width="240">
 
 
 
