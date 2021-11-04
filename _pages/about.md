@@ -36,7 +36,8 @@ This project focus on the designing method, the manufacturing technology on thre
 
 <img src="/images/2.png" width="640">
 <br>
-<img src="/images/3-1.gif" width="312">    <img src="/images/4-1.gif" width="312">
+
+<img src="/images/3-1.gif" width="315">    <img src="/images/4-1.gif" width="315">
 
 
 Micro-actuators illustrated in figures above are composed with shape memory alloy (SMA) and fabricated though Micro-electromechanical Systems (MEMS). These actuators are capable of forming into complex, precise and programmable three-dimensional shapes at micron scale. A voltage lower than 1V is sufficient to activate the actuator and cause it to vibrate at a high response frequency up to 50Hz, which is far more superior to most of the present micro-actuators based on SMA. Advantageous performances guarantee the actuators a broad prospect in the applications of micromachines, biomedicine, micro-robots and other fields.
