@@ -35,7 +35,6 @@ Northwestern Polytechnical University, GPA:3.6/4, Ranked **4th**/67
 This project focus on the designing method, the manufacturing technology on three-dimensional structure with high mechanical properties and response frequency at micron scale and its application on micro- actuators and robots.
 
 <img src="/images/2.png" width="640">
-
 <br>
 
 <img src="/images/3-1.gif" width="312">  <img src="/images/4-1.gif" width="312">
