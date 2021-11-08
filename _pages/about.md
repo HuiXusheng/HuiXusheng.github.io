@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am presently a master student at School of Astronautics, Northwestern Polytechnical University, Shaanxi, China. My research interests include: Micro-robot, Micro-actuator, Electromagnetic power transmission, Smart material, Shape memory alloy (SMA), Advanced Manufacturing, Micro-electromechanical Systems (MEMS).
+I am presently a master student at School of Astronautics, Northwestern Polytechnical University, Shaanxi, China. My research interests include: Micro-robots, Micro-actuators, Electromagnetic power transmission, Smart material, Shape memory alloy (SMA), Advanced Manufacturing, Micro-electromechanical Systems (MEMS).
 
 
 
