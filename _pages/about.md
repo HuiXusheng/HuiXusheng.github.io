@@ -54,7 +54,7 @@ This project aims at developing a set of innovative interventional intelligent m
 
 <img src="/images/6.jpg" width="640">
 
-Benefit from the innovative designing and fabrication method, mechanical embolectomy devices developed in this project can be small enough to be applied in vessels with diameters less than 1mm, where the current products cannot cover.
+Benefit from the innovative designing and fabrication method, mechanical embolectomy devices developed in this project can be small enough to be applied in vessels with diameters less than 1mm, where the current products cannot reach.
 
 Another important characteristic of the device is that it can provide shear force to soften thrombus, which will effectively protect the vessel wall thus, decrease the risk of neurological interventional surgery for acute stroke. Parallel manufacturing of the devices is promised due to its compatibility with semiconductor manufacturing processes, which will greatly reduce the surgery cost and benefit more patients.
 
