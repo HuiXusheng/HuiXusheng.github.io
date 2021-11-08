@@ -30,7 +30,7 @@ Northwestern Polytechnical University, GPA:3.6/4, Ranked **4th**/67.
 
 ## **Manufacturing technology and application of micro intelligent three-dimensional structure with high precision**
 
- (National Major Projects, 2019-now.)
+ (**National Major Projects**, 2019-now.)
 
 This project focus on the designing method, the manufacturing technology on three-dimensional structure with high mechanical properties and response frequency at micron scale and its application on micro- actuators and robots.
 
