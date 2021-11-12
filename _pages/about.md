@@ -50,9 +50,9 @@ Micro-actuators illustrated in figures above are composed with shape memory allo
 
 This project aims at developing a set of innovative interventional intelligent mechanical thrombectomy procedures and medical equipment products to face the challenges and needs of interventional neurosurgery for acute stroke.
 
-<img src="/images/5.jpg" width="640"><img src="/images/10.gif" height="180">
+<img src="/images/11.jpg" height="180">  <img src="/images/10.gif" height="180">
 
-<img src="/images/6.jpg" width="640"> 
+<img src="/images/6.jpg" width="670"> 
 
 Benefit from the innovative designing and fabrication method, mechanical embolectomy devices developed in this project can be small enough to be applied in vessels with diameters less than 1mm, where the current products cannot reach.
 
