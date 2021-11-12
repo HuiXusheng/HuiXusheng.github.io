@@ -52,7 +52,7 @@ This project aims at developing a set of innovative interventional intelligent m
 
 <img src="/images/5.jpg" width="640">
 
-<img src="/images/6.jpg" width="640">
+<img src="/images/6.jpg" width="640"> <img src="/images/10.gif" hight="181">
 
 Benefit from the innovative designing and fabrication method, mechanical embolectomy devices developed in this project can be small enough to be applied in vessels with diameters less than 1mm, where the current products cannot reach.
 
