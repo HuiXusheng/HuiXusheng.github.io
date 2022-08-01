@@ -101,4 +101,4 @@ C, MATLAB, CATIA, SolidWorks, AutoCAD, Altium Designer, Ansys, Abaqus, COMSOL.
 
 **Microfabrication qualification:**
 
-Lithography, Electron beam evaporation, Magnetron sputtering, Inductively Coupled Plasma Chemical Vapor Deposition, etc.
+Lithography, Photoresist lift-off, Electron beam evaporation, Magnetron sputtering, Inductively Coupled Plasma Chemical Vapor Deposition, XeF<sub>2</sub> vapor phase etching, etc.
