@@ -20,11 +20,11 @@ Northwestern Polytechnical University.
 
 **M.A. Major in Flight Vehicle Design, 2022**
 <br>
-Northwestern Polytechnical University, GPA:4/4, Weighted Average Mark: 92.61/100, Ranked **1st**/30.
+Northwestern Polytechnical University, GPA:**4**/4, Weighted Average Mark: **92.61**/100, Ranked **1st**/30.
 
 **B.A. Major in Flight Vehicle Design and Engineering, 2019**
 <br>
-Northwestern Polytechnical University, GPA:3.8/4, Weighted Average Mark: 89.97/100, Ranked **4th**/67.
+Northwestern Polytechnical University, GPA:**3.8**/4, Weighted Average Mark: **89.97**/100, Ranked **4th**/67.
 
 
 
