@@ -78,7 +78,7 @@ This research aims at developing untethered submillimeter robots with superior c
 
 <img src="/images/25.gif" width="317">    <img src="/images/26.gif" width="317">    <img src="/images/27.gif" width="317">
 
-These robots are capable of producing stable inchworm-like crawling motion on non-customized surfaces under lasers with low frequencies. When the laser frequency is increased, the lightweight robot structure is capable of generating fast vibrations, resulting in a vibration actuation for ultra-fast movement speed.
+These robots are capable of producing stable inchworm-like crawling motion on non-customized surfaces under lasers with low frequencies. When the laser frequency is increased, the lightweight robot structure is capable of generating fast vibrations, resulting in a vibration actuation for ultra-fast movement speed up to **3.66BL/s**, which is faster than the vast majority of other robots of this size on a non-customizable surface.
 
 <img src="/images/21.gif" width="317">    <img src="/images/22.gif" width="317">
 <br>
