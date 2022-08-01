@@ -76,9 +76,13 @@ Due to the planar design of the structure, resonance frequency, Q-factor and oth
 
 This research aims at developing untethered submillimeter robots with superior controllability, robustness, and motion performance. Participated as a core member, proposed the original ideas, designed the robot schemes, fabricated the prototype micro-robots, built test facilities, and carried out the experiments. 
 
-<img src="/images/21.gif" width="317">    <img src="/images/22.gif" width="317">
+<img src="/images/25.gif" width="317">    <img src="/images/26.gif" width="317">    <img src="/images/27.gif" width="317">
 
 These robots are capable of producing stable inchworm-like crawling motion on non-customized surfaces under lasers with low frequencies. When the laser frequency is increased, the lightweight robot structure is capable of generating fast vibrations, resulting in a vibration actuation for ultra-fast movement speed.
+
+<img src="/images/21.gif" width="317">    <img src="/images/22.gif" width="317">
+<br>
+<img src="/images/23.gif" width="317">    <img src="/images/24.gif" width="317">
 
 ## **Publications and Patents**
 
