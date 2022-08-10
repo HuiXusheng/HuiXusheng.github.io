@@ -72,9 +72,11 @@ This research is to develop a planarized thin-film micro-oscillator-circuit thro
 
 Due to the planar design of the structure, resonance frequency, Q-factor and other parameters of the circuit are fully designable. Compatibility with semiconductor manufacturing processes ensures that it can be easily integrated into other components as a wireless trigger or power harvesting unit. For future research, I am going to combine the wireless power transmission components with micro-actuators I developed, aiming at realizing fully controllable, fast and untethered micro-robots.
 
-## **Optical Actuated Submillimeter Robot with Ultrafast Speed on A Non-custimized Surface** 
+## **Optical Actuated Submillimeter Robot with Ultrafast Speed and Superior Robustness** 
 
-This research aims at developing untethered submillimeter robots with superior controllability, robustness, and motion performance. Participated as a core member, proposed the original ideas, designed the robot schemes, fabricated the prototype micro-robots, built test facilities, and carried out the experiments. 
+<img src="/images/FIG.1.jpg" width="640">
+
+This research aims at developing untethered submillimeter robots with superior controllability, robustness, and motion performance for biomedicine applications such as laser eye surgery. Participated as a core member, proposed the original ideas, designed the robot schemes, fabricated the prototype micro-robots, built test facilities, and carried out the experiments. 
 
 <img src="/images/25.gif" width="317">    <img src="/images/26.gif" width="317">    <img src="/images/27.gif" width="317">
 
