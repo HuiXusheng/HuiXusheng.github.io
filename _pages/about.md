@@ -32,6 +32,20 @@ Northwestern Polytechnical University, GPA:**3.8**/4, Weighted Average Mark: **8
 
 # Research Experience
 
+## **Optical Actuated Submillimeter Robot with Ultrafast Speed and Superior Robustness** 
+
+<img src="/images/FIG.1.jpg" width="640">
+
+This research aims at developing untethered submillimeter robots with superior controllability, robustness, and motion performance for biomedicine applications such as laser eye surgery. Participated as a core member, proposed the original ideas, designed the robot schemes, fabricated the prototype micro-robots, built test facilities, and carried out the experiments. 
+
+<img src="/images/25.gif" width="317">    <img src="/images/26.gif" width="317">    <img src="/images/27.gif" width="317">
+
+These robots are capable of producing stable inchworm-like crawling motion on non-customized surfaces under lasers with low frequencies. When the laser frequency is increased, the lightweight robot structure is capable of generating fast vibrations, resulting in a vibration actuation for ultra-fast movement speed up to **3.66BL/s**, which is faster than the vast majority of other robots of this size on a non-customizable surface.
+
+<img src="/images/21.gif" width="317">    <img src="/images/22.gif" width="317">
+<br>
+<img src="/images/23.gif" width="317">    <img src="/images/24.gif" width="317">
+
 ## **Manufacturing technology and application of micro intelligent three-dimensional structure with high precision**
 
  (**National Major Projects**, 2019-now.)
@@ -45,8 +59,6 @@ This project focus on the designing principle, the manufacturing technology on t
 
 
 Micro-actuators illustrated in figures above are composed with shape memory alloy (SMA) and fabricated though Micro-electromechanical Systems (MEMS). These actuators are capable of forming into complex, precise and programmable three-dimensional shapes at micron scale. A voltage lower than 2V is sufficient to activate the actuator and cause it to vibrate at a high response speed up to 100Hz, which is far more superior to most of the present micro-actuators based on SMA. Advantageous performances guarantee the micro-actuators broad application prospects in biomedince, environmental monitoring, industry, and robotics.
-
-
 
 ## Mechanical embolectomy device for non-invasive medical procedures
 
@@ -72,19 +84,6 @@ This research is to develop a planarized thin-film micro-oscillator-circuit thro
 
 Due to the planar design of the structure, resonance frequency, Q-factor and other parameters of the circuit are fully designable. Compatibility with semiconductor manufacturing processes ensures that it can be easily integrated into other components as a wireless trigger or power harvesting unit. For future research, I am going to combine the wireless power transmission components with micro-actuators I developed, aiming at realizing fully controllable, fast and untethered micro-robots.
 
-## **Optical Actuated Submillimeter Robot with Ultrafast Speed and Superior Robustness** 
-
-<img src="/images/FIG.1.jpg" width="640">
-
-This research aims at developing untethered submillimeter robots with superior controllability, robustness, and motion performance for biomedicine applications such as laser eye surgery. Participated as a core member, proposed the original ideas, designed the robot schemes, fabricated the prototype micro-robots, built test facilities, and carried out the experiments. 
-
-<img src="/images/25.gif" width="317">    <img src="/images/26.gif" width="317">    <img src="/images/27.gif" width="317">
-
-These robots are capable of producing stable inchworm-like crawling motion on non-customized surfaces under lasers with low frequencies. When the laser frequency is increased, the lightweight robot structure is capable of generating fast vibrations, resulting in a vibration actuation for ultra-fast movement speed up to **3.66BL/s**, which is faster than the vast majority of other robots of this size on a non-customizable surface.
-
-<img src="/images/21.gif" width="317">    <img src="/images/22.gif" width="317">
-<br>
-<img src="/images/23.gif" width="317">    <img src="/images/24.gif" width="317">
 
 ## **Publications and Patents**
 
