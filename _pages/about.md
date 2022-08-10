@@ -36,7 +36,7 @@ Northwestern Polytechnical University, GPA:**3.8**/4, Weighted Average Mark: **8
 
 <img src="/images/FIG.1.jpg" width="640">
 
-This research aims at developing untethered submillimeter robots with superior controllability, robustness, and motion performance for biomedicine applications such as laser eye surgery. Participated as a core member, proposed the original ideas, designed the robot schemes, fabricated the prototype micro-robots, built test facilities, and carried out the experiments. 
+This research aims at developing untethered submillimeter robots with superior controllability, robustness, and motion performance for biomedicine applications such as ocular operation. Participated as a core member, proposed the original ideas, designed the robot schemes, fabricated the prototype micro-robots, built test facilities, and carried out the experiments. 
 
 <img src="/images/25.gif" width="317">    <img src="/images/26.gif" width="317">    <img src="/images/27.gif" width="317">
 
