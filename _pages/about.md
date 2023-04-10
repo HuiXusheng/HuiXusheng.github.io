@@ -33,7 +33,7 @@ Northwestern Polytechnical University, GPA:**3.8**/4, Weighted Average Mark: **8
 
 Learned and practiced for 6 months and obtained professional qualification in MEMS microfabrication.
 
-**Microfabrication qualification:** Lithography, photoresist lift-off, electron beam evaporation, magnetron sputtering, inductively coupled plasma chemical vapour deposition, XeF2 etching, 3D printing, etc.
+**Microfabrication qualification:** Lithography, photoresist lift-off, electron beam evaporation, magnetron sputtering, inductively coupled plasma chemical vapour deposition, XeF<sub>2</sub> etching, 3D printing, etc.
 
 
 
