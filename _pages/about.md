@@ -13,6 +13,7 @@ I am presently a Ph.D. student at School of Astronautics, Northwestern Polytechn
 
 
 # Education
+<hr>
 
 **Ph.D. Major in Aeronautical and Astronautical Science and Technology, 04/2022-Present**
 <br>
@@ -28,6 +29,7 @@ Northwestern Polytechnical University, GPA:**3.8**/4, Weighted Average Mark: **8
 
 
 # Practical Experience
+<hr>
 
 ## **Suzhou Insititute of Nano-Tech and Nano-Bionics (SINANO), Chinese Academy of Sciences, 2020**
 
@@ -38,6 +40,7 @@ Learned and practiced for 6 months and obtained professional qualification in ME
 
 
 # Research Experience
+<hr>
 
 ## **Research on untethered ultrafast submillimeter robots** 
 
@@ -92,7 +95,8 @@ This research is to develop a planarized thin-film micro-oscillator-circuit thro
 Due to the planar design of the structure, resonance frequency, Q-factor and other parameters of the circuit are fully designable. Compatibility with semiconductor manufacturing processes ensures that it can be easily integrated into other components as a wireless trigger or power harvesting unit. For future research, I am going to combine the wireless power transmission components with micro-actuators I developed, aiming at realizing fully controllable, fast and untethered micro-robots.
 
 
-## **Publications and Patents**
+# **Publications and Patents**
+<hr>
 
 **X. Hui**, J. Luo, R. Wang, and H. Sun, “Multi responsive Microactuator for Ultrafast Submillimeter Robots”, ACS Nano. (Early access) [[PDF]](/files/ACS_Nano.pdf) [[Link]](https://doi.org/10.1021/acsnano.2c12203)
 
@@ -104,7 +108,8 @@ J. Luo, **X. Hui**, H. Sun, et al. A steering - controlled guide wire for medica
 
 J. Luo, **X. Hui**, H. Sun, et al. A wireless self-driving crawling robot based on shape memory alloy thin film, ZL202110595956. (Chinese Patent)
 
-## **Relevant Skills**
+# **Relevant Skills**
+<hr>
 
 C, MATLAB, CATIA, SolidWorks, AutoCAD, Altium Designer, Origin, Abaqus, Ansys, and COMSOL.
 
