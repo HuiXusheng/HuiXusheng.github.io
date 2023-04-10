@@ -106,7 +106,7 @@ J. Luo, **X. Hui**, H. Sun, et al. A wireless self-driving crawling robot based 
 
 ## **Relevant Skills**
 
-C, MATLAB, CATIA, SolidWorks, AutoCAD, Altium Designer, Ansys, Abaqus, COMSOL.
+C, MATLAB, CATIA, SolidWorks, AutoCAD, Altium Designer, Origin, Abaqus, Ansys, and COMSOL.
 
 **Microfabrication qualification:**
 
