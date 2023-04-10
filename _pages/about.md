@@ -87,8 +87,8 @@ Due to the planar design of the structure, resonance frequency, Q-factor and oth
 
 ## **Publications and Patents**
 
-**X. Hui**, J. Luo, R. Wang, and H. Sun, “Multi responsive Microactuator for Ultrafast Submillimeter Robots”, ACS Nano. (Early access) [[PDF]](/files/ACS Nano.pdf) [[Link]](https://doi.org/10.1021/acsnano.2c12203)
-
+**X. Hui**, J. Luo, R. Wang, and H. Sun, “Multi responsive Microactuator for Ultrafast Submillimeter Robots”, ACS Nano. (Early access) [[PDF]](/files/APL.pdf) [[Link]](https://doi.org/10.1021/acsnano.2c12203)
+APL
 **X. Hui**, J. Luo, X. Wang, R. Wang, and H. Sun, “Bimorph electrothermal micro-gripper with large deformation, precise and rapid response, and low operating voltage”, Applied Physics Letters. 121, 023502 (2022) https://doi.org/10.1063/5.0100920
 
 J. Luo, **X. Hui**, H. Sun, et al. A peristaltic robot based on shape memory alloy, ZL202110873557. (Chinese Patent)
