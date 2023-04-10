@@ -12,7 +12,7 @@ I am presently a Ph.D. student at School of Astronautics, Northwestern Polytechn
 
 
 
-# Education
+# <span style="color:red;">Education</span>
 <hr>
 
 **Ph.D. Major in Aeronautical and Astronautical Science and Technology, 04/2022-Present**
