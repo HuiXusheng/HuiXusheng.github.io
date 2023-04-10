@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am presently a Ph.D. student at School of Astronautics, Northwestern Polytechnical University, Shaanxi, China. My research interests include: Microrobots, Microswimmers, Microactuators, Optical actuation, Magnetic actuation, Smart materials, Shape Memory Alloy (SMA), Advanced Manufacturing, Micro-Electro-Mechanical System (MEMS), Biomedicine applications.
+I am presently a Ph.D. student at School of Astronautics, Northwestern Polytechnical University, Shaanxi, China. My research interests include: Microrobots, Microswimmers, Microactuators, Optical actuation, Magnetic actuation, Smart materials, Shape Memory Alloy (SMA), Advanced Manufacturing, Micro-Electro-Mechanical System (MEMS), Biomedicine applications. The research results have been published as the first author in [ACS Nano](https://doi.org/10.1021/acsnano.2c12203) and [APL](https://doi.org/10.1063/5.0100920).
 
 
 
