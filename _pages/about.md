@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span style="color:royalblue;">About me</span>"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
