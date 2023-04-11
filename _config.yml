@@ -277,20 +277,3 @@ compress_html:
   ignore:
     envs: development
     
-    <style>
-    /* 设置固定位置的div的样式 */
-    #fixed-div {
-        position: fixed;
-        top: 50px;
-        right: 50px;
-        width: 200px;
-        height: 300px;
-        background-color: #f2f2f2;
-        border: 1px solid #ccc;
-        padding: 10px;
-    }
-</style>
-
-<div id="fixed-div">
-    <!-- 在这里添加你想要显示的内容 -->
-</div>
